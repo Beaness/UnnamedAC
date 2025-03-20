@@ -1,0 +1,11 @@
+name: Acid
+version: '${version}'
+main: me.beanes.acid.plugin.Acid
+load: STARTUP
+authors: [ Beanes, xEcho1337 ]
+description: Super duper advanced anti hax system for legacy minecraft 1.7.10-1.8.9
+depend:
+  - packetevents
+commands:
+  acid:
+    description: "Information about the anticheat"

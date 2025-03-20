@@ -1,0 +1,17 @@
+#  _______________
+# < ? Config >
+#  ---------------
+#       \   ^__^
+#        \  (oo)\_______
+#           (__)\       )\/\
+#               ||----w |
+#               ||     ||
+#
+
+# This configuration offers only a few options because the anti-cheat system is designed to require minimal setup. We've optimized it to only flag genuine cheating attempts.
+# If you need any assistance please make a ticket in our discord
+
+# How many seconds is a player allowed to lag until the player is setback?
+# This is used to prevent cheats like blink.
+# We recommend having a low time if your server is focused around pvp, if you wish to give more leniency though you can increase this value
+lag-setback: 5
